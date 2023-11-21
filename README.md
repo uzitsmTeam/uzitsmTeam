@@ -8,9 +8,6 @@
       Start implementing Service Desk with us.
       Try the full version of the program for free for 77 days and feel the difference between managing traditional methods of services.
   
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach us uzitsm.uz
 
 <!---
